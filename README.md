@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FLabastida
-- 👀 I’m interested in Nodejs, React, Python, C and C#
+- 👀 I’m interested in Nodejs, Express and Python
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on web applications
 - 📫 To contact me please send a email to: fallsoftware.dev@gmail.com //Soon visit fall.software
