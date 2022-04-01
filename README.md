@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FLabastida
-- 👀 I’m interested in Nodejs, Express and Python
-- 🌱 I’m currently learning React and Python
-- 💞️ I’m looking to collaborate on web applications
-- 📫 To contact me please send a email to: fallsoftware.dev@gmail.com //Soon visit fall.software
+- 👋 Hi, I’m @FLabastida a Software Development Engineer
+- 👀 I’m interested in Backend development, cybersecurity and videogames
+- 🌱 I’m currently work with Nodejs, Express, MongoDB and Python, in my free time learning React and TS
+- 💞️ I’m looking to collaborate on web applications and mobile applications
+- 📫 To contact me please send a email to: fallsoftware.dev@gmail.com
 
 <!---
 FLabastida/FLabastida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
