@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FLabastida a Software Development Engineer
 - 👀 I’m interested in Backend development, cybersecurity and videogames
-- 🌱 I’m currently work with Nodejs, Express, MongoDB and Python, in my free time learning React and TS
+- 🌱 I’m currently work with Typescript, Serverless, PostgreSQL, AWS and Python, in my free time learning Front End
 - 💞️ I’m looking to collaborate on web applications and mobile applications
 - 📫 To contact me please send a email to: fallsoftware.dev@gmail.com
 
